@@ -1,4 +1,3 @@
-Certainly! Here's a sample README file for a two-player ping pong game using the Turtle module in Python:
 
 # Two-Player Ping Pong Game
 
